@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Form, ListGroup } from 'react-bootstrap'
 import { PencilSquare, Trash } from 'react-bootstrap-icons'
 import { Todo } from './data'
